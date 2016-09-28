@@ -156,3 +156,5 @@ public static void main(String args[]) {
 
 }
 }
+
+///Good job.   I am also looking for percentage of guess right, high and low.
